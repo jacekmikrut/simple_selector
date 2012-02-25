@@ -1,3 +1,3 @@
-module SimpleSelector
+class SimpleSelector
   VERSION = "0.0.1"
 end

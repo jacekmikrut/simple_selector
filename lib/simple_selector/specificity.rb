@@ -1,4 +1,4 @@
-module SimpleSelector
+class SimpleSelector
   class Specificity
 
     include Comparable
