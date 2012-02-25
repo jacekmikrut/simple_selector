@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
   s.author        = "Jacek Mikrut"
   s.email         = "jacekmikrut.software@gmail.com"
   s.homepage      = "http://github.com/jacekmikrut/simple_selector"
-  s.summary       = "Simple selector."
-  s.description   = "Simple selector."
+  s.summary       = "Represents a CSS-like selector, calculates its specificity and tells if it matches given HTML-like tags."
+  s.description   = "Represents a CSS-like selector, calculates its specificity and tells if it matches given HTML-like tags."
 
   s.files         = Dir["lib/**/*", "README*", "LICENSE*", "Changelog*"]
   s.require_path  = "lib"
