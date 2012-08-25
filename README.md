@@ -1,7 +1,7 @@
-SimpleSelector
-==============
+simple_selector
+===============
 
-SimpleSelector is a Ruby gem that **represents a CSS-like selector**, calculates its **specificity** and tells if it **matches** given HTML-like tags.
+simple_selector is a Ruby gem that **represents a CSS-like selector**, calculates its **specificity** and tells if it **matches** given HTML-like tags.
 
 Content
 -------
@@ -67,7 +67,7 @@ And now:
 Installation
 ------------
 
-As a Ruby gem, SimpleSelector can be installed either by running
+As a Ruby gem, simple_selector can be installed either by running
 
 ```bash
   gem install simple_selector
